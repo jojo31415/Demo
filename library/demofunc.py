@@ -1,5 +1,5 @@
 def demofunction():
-   return 0
+   return 42
 
 print("Demofunction returns:")
 print(demofunction())
