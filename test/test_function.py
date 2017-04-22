@@ -1,4 +1,4 @@
-from library.demofunction import demofunction
+from library.demofunc import demofunc
 
-def test_demofunction():
-  assert demofunction() == 42
+def test_demofunc():
+  assert demofunc() == 42

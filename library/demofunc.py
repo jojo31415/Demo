@@ -1,2 +1,2 @@
-def demofunction():
+def demofunc():
    return 42
